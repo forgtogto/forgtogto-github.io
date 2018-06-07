@@ -2,7 +2,7 @@
 layout: post
 title:  "첫 글"
 subtitle:   " 익숙해지기"
-categories: Thinkalone
+categories: thinkalone
 comments: true
 ---
 
