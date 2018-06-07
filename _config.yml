@@ -13,12 +13,13 @@ url:                 https://forgtogto.github.io/
 baseurl:             ""
 
 # A very short description of your page
-tagline:             테그라인 작성하기 
+tagline:             하고싶은게 있는 건 좋은 일!
+                     할수있는게 많은 건 더 좋은 일!
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  여기엔 discription 작성한다 
+  정리하고, 받은도움 돌려주고!
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
