@@ -14,7 +14,8 @@ baseurl:             ""
 
 # A very short description of your page
 tagline:             하고싶은게 있는 건 좋은 일!
-                     할수있는게 많은 건 더 좋은 일!
+                     할수있는게 많은 건 
+                     더 좋은 일!
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
