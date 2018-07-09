@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "첫 글"
-subtitle:   " 익숙해지기"
-categories: thinkalone
+subtitle:  " 익숙해지기"
+categories:  thinkalone
 comments: true
 ---
 
@@ -17,5 +17,3 @@ comments: true
 [박민]('https://isme2n.github.io/') 님 너무 감사드립니다.
 
 ### 익숙하지 않으나 곧 익숙해질것이다.
-
-
